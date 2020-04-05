@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_contacts"
+        android:icon="@drawable/contacts_48"
+        android:title="Contacts" />
+    <item
+        android:id="@+id/navigation_messages"
+        android:icon="@drawable/group_message_52"
+        android:title="Messages" />
+</menu>
